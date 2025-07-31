@@ -1,2 +1,2 @@
-# Project_1
-This repository contains all code, procedures, and results for the project “Cancer Subtype Classification from Gene Expression Data.” The “Steps_Followed.docx” file details the methodologies, step-by-step processes, and results achieved during implementation.
+# Project-1
+The following repository has been created to hold all the codes, steps followed and results file for Cancer Subtype Classification from Gene Expression Data. The "Steps_Followed.docx" file describes each and every step followed to achieve the ultimate aim of the project along with results achieved after implementation of each step so, it is suggested to download the file for reference. As Git-Hub supports maximum of 2GB files (even after installing its LFS support), cleaned and raw datasets have not been published all of their contents have been described in the "Steps_Followed.docx" document.
